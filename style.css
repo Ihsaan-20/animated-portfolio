@@ -160,7 +160,7 @@ p{
 .btns{
     width: 100%;
     position: relative;
-    left: 150px;
+/*     left: 150px; */
     margin-top: 2em;
 }
 .button{
