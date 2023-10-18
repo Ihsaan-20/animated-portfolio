@@ -160,7 +160,6 @@ p{
 .btns{
     width: 100%;
     position: relative;
-/*     left: 150px; */
     margin-top: 2em;
 }
 .button{
@@ -252,7 +251,7 @@ p{
   
     .links a {
       font-size: 20px;
-      margin: 15px 5px;
+      /* margin: 15px 5px; */
     }
     
     .wrapper{
